@@ -33,6 +33,7 @@ build/Release
 
 # Dependency directories
 node_modules
+flow-typed
 jspm_packages
 
 # Optional npm cache directory
@@ -40,4 +41,5 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
-yarn.lock
+
+src/server/config/ssl/server.*
